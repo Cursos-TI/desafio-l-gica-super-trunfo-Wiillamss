@@ -161,7 +161,7 @@ int main() {
     printf("7. Inverso de Densidade Demográfica.\n");
     printf("8. Super Poder.\n");
     printf("9. Ver as regras sobre as comparações.\n");
-    printf("Escolha um número de 1 à 9: ");
+    printf("Escolha uma opção: ");
     scanf("%d", &opcao);
 
     printf("\n"); // Deixando um espaço entre as informações
